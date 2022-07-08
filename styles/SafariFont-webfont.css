@@ -1,0 +1,186 @@
+@font-face {
+    font-family: '나눔명조';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/NotoSerifKR-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/NotoSerifKR-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '나눔명조';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/NotoSerifKR-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/NotoSerifKR-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '나눔명조';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/NanumMyeongjo.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/NanumMyeongjo.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Malgun Gothic Semilight';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic-Semilight.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Malgun Gothic';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Malgun Gothic';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothicBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MalgunGothic Semilight';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic-Semilight.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MalgunGothic';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MalgunGothic';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothicBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '맑은 고딕 Semilight';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic-Semilight.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '맑은 고딕';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '맑은 고딕';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothicBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '맑은고딕 Semilight';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic-Semilight.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '맑은고딕';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '맑은고딕';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothicBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family : 'Youtube Noto';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothicBold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monaco';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MonacoPL-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monaco';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MonacoPL-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monaco';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MonacoPL-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monaco';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MonacoPL-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+pre, code, .blob-code, .blob-code-marker {
+    font-family : 'Monaco', 'ui-monospace' !important;
+    font-size : 95%;
+}

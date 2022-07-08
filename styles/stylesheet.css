@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Malgun Gothic Semilight';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic-Semilight.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Malgun Gothic';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Malgun Gothic';
+    src: url('https://raw.githubusercontent.com/darkbrow/webfonts-for-safari/main/woff2/MalgunGothicBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
